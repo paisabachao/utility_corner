@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122716885660",
+    "project_id": "utilitycorner-6a478",
+    "storage_bucket": "utilitycorner-6a478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122716885660:android:07f168a1e50b7c003e1359",
+        "android_client_info": {
+          "package_name": "com.example.utility_corner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZbn4SLtw7_zk8wxQghkI0NlkkJXSXCto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
